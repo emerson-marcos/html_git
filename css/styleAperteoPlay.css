@@ -1,12 +1,22 @@
-p{
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 1rem;
-    font-style: italic;
-    text-shadow: 2px 4px 5px #eee, 0 0 1px red;
-    line-height: 1.5em;
+html{
+    background-color:rgb(135, 162, 185);
 }
 
-h1{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-style: bold;
+.letra,
+.paragrafo{
+    font-family: 'Lucida Sans';
+}
+
+.letra{
+    font-size: 2rem;
+}
+
+.musica{
+    font-size: 1.7rem;
+    text-transform: capitalize;
+}
+
+.paragrafo{
+    font-size: 1rem;
+    font-style: normal;
 }
