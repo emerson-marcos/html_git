@@ -1,5 +1,13 @@
+html{
+    background-color: rgb(173, 176, 184);
+}
+
 .container{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.cantores{
+    text-align: center;
 }
